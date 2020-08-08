@@ -3,14 +3,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Info about this project
 
 THis project makes use of Json placehold API for users api and shows users in a UI.
-
 Here are some of the screenshots 
 
-![Screen_Shot_2020-04-25_at_7.54.22_PM](/uploads/73992dc81dc09661c982debe81097317/Screen_Shot_2020-04-25_at_7.54.22_PM.png)
+![image1](https://gitlab.com/hegde-raghavendra/react-hooks-demo/uploads/73992dc81dc09661c982debe81097317/Screen_Shot_2020-04-25_at_7.54.22_PM.png)
+![image2](https://gitlab.com/hegde-raghavendra/react-hooks-demo/uploads/10e88f9deb13c4fac4555f069f011980/Screen_Shot_2020-04-25_at_7.54.41_PM.png)
+![image3](https://gitlab.com/hegde-raghavendra/react-hooks-demo/uploads/2b36b066a8f4398f4dfce61fbe30a506/Screen_Shot_2020-04-25_at_7.54.51_PM.png)
 
-![Screen_Shot_2020-04-25_at_7.54.51_PM](/uploads/2b36b066a8f4398f4dfce61fbe30a506/Screen_Shot_2020-04-25_at_7.54.51_PM.png)
 
-![Screen_Shot_2020-04-25_at_7.54.41_PM](/uploads/10e88f9deb13c4fac4555f069f011980/Screen_Shot_2020-04-25_at_7.54.41_PM.png)
 
 ## Available Scripts
 
